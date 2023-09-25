@@ -2,11 +2,11 @@
 
 # ZILLOW DATA ENTRY BOT
 
-## Problem
+## PROBLEM
 
 Managing large volumes of real estate listings from platforms like Zillow can be a time-consuming and tedious task. Manually entering property details, including addresses, prices, and links, into a Google Form can be particularly cumbersome for clients. Additionally, transferring this data from the form to a Google Sheet for further analysis and organization adds an extra layer of effort and potential for errors.
 
-## Solution
+## SOLUTION
 
 Zillow data entry bot is a bot designed to streamline the process of collecting and organizing real estate listing data from Zillow. The bot automates the following tasks:
 
@@ -19,15 +19,15 @@ Zillow data entry bot is a bot designed to streamline the process of collecting 
 The zillow data entry bot brings efficiency and accuracy to the process of managing real estate listings. It eliminates the manual effort involved in entering data into a Google Form and seamlessly transfers the information to a Google Sheet for further use.
 
 
-## Contributing
+## CONTRIBUTION
 
-Contributions are welcome! If you would like to contribute to zillow data entry bot, please send a pull request.
+Contributions are welcome! If you would like to contribute to zillow data entry bot, please feel free to create a pull request.
 
-## License
+## LICENSE
 
 This project is licensed under the MIT - see the MIT-License.txt file for details.
 
-## Contact
+## CONTACT
 
 For any questions, feedback, or inquiries, please contact Lovelace at lovelacegmf@gmail.com.
 

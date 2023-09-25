@@ -1,10 +1,5 @@
 **This project uses selenium, requests, time and beautiful soup modules**
 
-Certainly! Here's an example of how you can structure the content for your README file:
-
-
-# REAL ESTATE DATA ENTRY JOB AUTOMATION
-
 # ZILLOW DATA ENTRY BOT
 
 ## Problem
